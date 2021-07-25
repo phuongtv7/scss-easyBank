@@ -322,7 +322,7 @@ button:hover::before,
   }
 }
 .hero__image {
-  background-image: url("/images/bg-intro-mobile.svg");
+  background-image: url("../images/bg-intro-mobile.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -348,7 +348,7 @@ button:hover::before,
     content: "";
     position: absolute;
     height: 100%;
-    background-image: url("/images/bg-intro-desktop.svg");
+    background-image: url("../images/bg-intro-desktop.svg");
     background-repeat: no-repeat;
     background-position: center bottom;
     width: 150%;
@@ -358,7 +358,7 @@ button:hover::before,
 }
 .hero__image:after {
   content: "";
-  background-image: url("/images/image-mockups.png");
+  background-image: url("../images/image-mockups.png");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: 93%;
@@ -460,13 +460,13 @@ button:hover::before,
   background-image: url("../images/image-restaurant.jpg");
 }
 .articles #img2 {
-  background-image: url("/images/image-currency.jpg");
+  background-image: url("../images/image-currency.jpg");
 }
 .articles #img3 {
   background-image: url("../images/image-plane.jpg");
 }
 .articles #img4 {
-  background-image: url("/images/image-confetti.jpg");
+  background-image: url("../images/image-confetti.jpg");
 }
 
 .article__grid {
